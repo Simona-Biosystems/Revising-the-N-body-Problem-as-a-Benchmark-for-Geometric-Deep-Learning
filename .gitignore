@@ -1,0 +1,20 @@
+/config.ini
+run*/
+/wandb/
+
+.env
+.idea
+.vscode/*
+
+__pycache__
+
+# stuff related to generated datasets
+*.npy
+datasets/nbody/dataset/gravity/metadata.json
+datasets/nbody/dataset/gravity/compare_dt
+
+saved_simulations/*
+data/*
+
+# Mac OS
+.DS_Store

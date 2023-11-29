@@ -1,0 +1,25 @@
+numpy==1.26.4
+matplotlib==3.8.3
+torch==2.2.0
+pytorch-lightning==1.8.6
+tensorboard==2.16.2
+scipy==1.12.0
+PyQt5==5.15.10
+seaborn==0.13.2
+wandb==0.16.3
+moviepy==1.0.3
+imageio==2.34.0
+e3nn==0.5.1
+jupyter==1.0.0
+plotly==5.22.0
+ase==3.23.0
+schedulefree==1.2.7
+scikit-learn==1.5.2
+pydantic==2.8.2
+OpenMM==8.1.1
+MDAnalysis==2.7.0
+h5py==3.11.0
+# This is just for the analysis part of MD dataset (notebooks)
+mdtraj==1.10.0
+ipywidgets==8.0.6
+nglview==3.0.6
